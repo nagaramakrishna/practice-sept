@@ -1,5 +1,5 @@
 <?php
 
-print("First Project in PhP";
+print("First Project in PhP");
 
 >?
